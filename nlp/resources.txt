@@ -1,0 +1,8 @@
+Stanford NLP????:7. ????(Sentiment)
+http://www.cnblogs.com/arkenstone/p/6064196.html
+
+Stanford CS224n: Natural Language Processing with Deep Learning
+http://web.stanford.edu/class/cs224n/
+
+????(Gradient Descent)??
+https://www.cnblogs.com/zhaohongtian/p/6802333.html
