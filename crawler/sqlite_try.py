@@ -26,7 +26,7 @@ conn.commit()
 c.execute("SELECT * FROM employees WHERE last = ?",("Park",))
 print(c.fetchall())
 
-c.execute("SELECT * FROM employees WHERE last = :last",{"last": "Doe"})
-print(c.fetchall())
+# c.execute("SELECT * FROM employees WHERE last = :last",{"last": "Doe"})
+# print(c.fetchall())
 
 conn.close()
