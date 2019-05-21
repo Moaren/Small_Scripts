@@ -6,3 +6,9 @@ http://web.stanford.edu/class/cs224n/
 
 ????(Gradient Descent)??
 https://www.cnblogs.com/zhaohongtian/p/6802333.html
+
+Stanford Lecture Videos
+https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=2&t=0s
+
+????????? Variational Inference for LDA (part 1)
+https://www.youtube.com/watch?v=e1wr0xHbfYk
