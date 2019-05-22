@@ -16,6 +16,15 @@ How to define the labels, training sets and validation sets?
 - topic modelling
 - text classification
 
+### Stuff to try
+- https://www.aclweb.org/anthology/W14-2715
+- https://www.jmir.org/2009/3/e25/
+- https://ieeexplore.ieee.org/abstract/document/5276756
+- https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=forum+classification+text+processing&btnG=
+- https://towardsdatascience.com/topic-modeling-and-latent-dirichlet-allocation-in-python-9bf156893c24
+- ML common methods: http://fastml.com/classifying-text-with-bag-of-words-a-tutorial/
+- ML common method code: https://towardsdatascience.com/machine-learning-nlp-text-classification-using-scikit-learn-python-and-nltk-c52b92a7c73a
+
 ### Pre-defined Categories
 - Debt collector
 - Event Reminder
