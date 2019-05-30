@@ -29,6 +29,7 @@ How to define the labels, training sets and validation sets?
 - Crossvalidatin(technique in data classifying)
 - Softmax
 - unsupervised classification: https://towardsdatascience.com/applying-machine-learning-to-classify-an-unsupervised-text-document-e7bb6265f52
+- SVM - said to have the best effect
 
 ### Pre-defined Categories
 - Debt collector
