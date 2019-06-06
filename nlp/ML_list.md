@@ -19,3 +19,6 @@ tfidf = TfidfVectorizer(sublinear_tf=True, min_df=5, norm='l2', encoding='latin-
 	- 强化学习得到的收益是短期的 训练过程并没有一个固定的监督机制
 	- 与非监督学习相比存在一个小的短期反馈
 	- 有独特的主动探索以及获得反馈的过程
+
+### 机器学习的分类与主要算法对比
+https://blog.csdn.net/sinat_27554409/article/details/72823984
